@@ -7,7 +7,6 @@
       "weapon": "Bow",
       "vision": "Pyro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Amber",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Amber_Item.png"
     },
     {
       "id": 2,
@@ -16,7 +15,6 @@
       "weapon": "Catalyst",
       "vision": "Hydro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Barbara",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Barbara_Item.png/"
     },
     {
       "id": 3,
@@ -25,7 +23,6 @@
       "weapon": "Claymore",
       "vision": "Electro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Beidou",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Beidou_Item.png"
     },
     {
       "id": 4,
@@ -34,7 +31,6 @@
       "weapon": "Sword",
       "vision": "Pyro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Bennett",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Bennett_Item.png"
     },
     {
       "id": 5,
@@ -43,7 +39,6 @@
       "weapon": "Claymore",
       "vision": "Cryo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Chongyun",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Chongyun_Item.png"
     },
     {
       "id": 6,
@@ -52,7 +47,6 @@
       "weapon": "Bow",
       "vision": "Electro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Fischl",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Fischl_Item.png/"
     },
     {
       "id": 7,
@@ -61,7 +55,6 @@
       "weapon": "Sword",
       "vision": "Cryo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Kaeya",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Kaeya_Item.png"
     },
     {
       "id": 8,
@@ -70,7 +63,6 @@
       "weapon": "Catalyst",
       "vision": "Electro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Lisa",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Lisa_Item.png"
     },
     {
       "id": 9,
@@ -79,7 +71,6 @@
       "weapon": "Catalyst",
       "vision": "Geo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Ningguang",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Ningguang_Item.png"
     },
     {
       "id": 10,
@@ -88,7 +79,6 @@
       "weapon": "Claymore",
       "vision": "Geo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Noelle",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Noelle_Item.png"
     },
     {
       "id": 11,
@@ -97,7 +87,6 @@
       "weapon": "Claymore",
       "vision": "Electro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Razor",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Razor_Item.png"
     },
     {
       "id": 12,
@@ -106,7 +95,6 @@
       "weapon": "Catalyst",
       "vision": "Anemo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Sucrose",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Sucrose_Item.png"
     },
     {
       "id": 13,
@@ -115,7 +103,6 @@
       "weapon": "Polearm",
       "vision": "Pyro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Xiangling",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Xiangling_Item.png"
     },
     {
       "id": 14,
@@ -124,7 +111,6 @@
       "weapon": "Sword",
       "vision": "Hydro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Xingqiu",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Xingqiu_Item.png"
     },
     {
       "id": 15,
@@ -133,7 +119,6 @@
       "weapon": "Claymore",
       "vision": "Pyro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Diluc",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Diluc_Item.png"
     },
     {
       "id": 16,
@@ -142,7 +127,6 @@
       "weapon": "Sword",
       "vision": "Anemo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Jean",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Jean_Item.png"
     },
     {
       "id": 17,
@@ -151,7 +135,6 @@
       "weapon": "Catalyst",
       "vision": "Hydro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Mona",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Mona_Item.png"
     },
     {
       "id": 18,
@@ -160,7 +143,6 @@
       "weapon": "Sword",
       "vision": "Electro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Keqing",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Keqing_Item.png"
     },
     {
       "id": 19,
@@ -169,7 +151,6 @@
       "weapon": "Sword",
       "vision": "Cryo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Qiqi",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Qiqi_Item.png"
     },
     {
       "id": 20,
@@ -178,7 +159,6 @@
       "weapon": "Sword",
       "vision": "None",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Traveler",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Aether_Item.png"
     },
     {
       "id": 21,
@@ -187,7 +167,6 @@
       "weapon": "Sword",
       "vision": "None",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Traveler",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Lumine_Item.png"
     },
     {
       "id": 22,
@@ -196,8 +175,7 @@
       "weapon": "Bow",
       "vision": "Anemo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Venti",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Venti_Item.png"
-    },
+     },
     {
       "id": 23,
       "name": "Klee",
@@ -205,7 +183,6 @@
       "weapon": "Catalyst",
       "vision": "Pyro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Klee",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Klee_Item.png"
     },
     {
       "id": 24,
@@ -214,7 +191,6 @@
       "weapon": "Claymore",
       "vision": "Pyro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Xinyan",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Xinyan_Item.png"
     },
     {
       "id": 25,
@@ -223,7 +199,6 @@
       "weapon": "Polearm",
       "vision": "Geo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Zhongli",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Zhongli_Item.png"
     },
     {
       "id": 26,
@@ -232,7 +207,6 @@
       "weapon": "Bow",
       "vision": "Cryo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Diona",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Diona_Item.png"
     },
     {
       "id": 27,
@@ -241,7 +215,6 @@
       "weapon": "Bow",
       "vision": "Hydro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Tartaglia",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Tartaglia_Item.png"
     },
     {
       "id": 28,
@@ -250,7 +223,6 @@
       "weapon": "Bow",
       "vision": "Cryo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Ganyu",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Ganyu_Item.png"
     },
     {
       "id": 29,
@@ -259,7 +231,6 @@
       "weapon": "Sword",
       "vision": "Geo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Albedo",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Albedo_Item.png"
     },
     {
       "id": 30,
@@ -268,7 +239,6 @@
       "weapon": "Polearm",
       "vision": "Pyro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Hu_Tao",
-      "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Hu_Tao_Item.png"
     },
     {
       "id": 31,
@@ -277,7 +247,7 @@
       "weapon": "Polearm",
       "vision": "Anemo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Xiao",
-      "image": ""
+      
     },
     {
       "id": 32,
@@ -286,7 +256,7 @@
       "weapon": "Polearm",
       "vision": "Cryo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Rosaria",
-      "image": ""
+      
     },
     {
       "id": 33,
@@ -295,7 +265,7 @@
       "weapon": "Claymore",
       "vision": "Cryo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Eula",
-      "image": ""
+      
     },
     {
       "id": 34,
@@ -304,7 +274,7 @@
       "weapon": "Catalyst",
       "vision": "Pyro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Yanfei",
-      "image": ""
+      
     },
     {
       "id": 35,
@@ -313,7 +283,7 @@
       "weapon": "Sword",
       "vision": "Anemo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Kaedehara_Kazuha",
-      "image": ""
+      
     },
     {
       "id": 36,
@@ -322,7 +292,7 @@
       "weapon": "Sword",
       "vision": "Cryo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayaka",
-      "image": ""
+      
     },
     {
       "id": 37,
@@ -331,7 +301,7 @@
       "weapon": "Claymore",
       "vision": "Anemo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Sayu",
-      "image": ""
+      
     },
     {
       "id": 38,
@@ -340,7 +310,7 @@
       "weapon": "Bow",
       "vision": "Pyro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Yoimiya",
-      "image": ""
+      
     },
     {
       "id": 39,
@@ -349,7 +319,7 @@
       "weapon": "Bow",
       "vision": "Electro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Kujou_Sara",
-      "image": ""
+      
     },
     {
       "id": 40,
@@ -358,7 +328,7 @@
       "weapon": "Polearm",
       "vision": "Electro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Raiden_Shogun",
-      "image": ""
+      
     },
     {
       "id": 41,
@@ -367,7 +337,7 @@
       "weapon": "Catalyst",
       "vision": "Hydro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Sangonomiya_Kokomi",
-      "image": ""
+      
     },
     {
       "id": 42,
@@ -376,7 +346,7 @@
       "weapon": "Polearm",
       "vision": "Pyro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Thoma",
-      "image": ""
+      
     },
     {
       "id": 43,
@@ -385,7 +355,7 @@
       "weapon": "Bow",
       "vision": "Geo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Gorou",
-      "image": ""
+      
     },
     {
       "id": 44,
@@ -394,7 +364,7 @@
       "weapon": "Claymore",
       "vision": "Geo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Arataki_Itto",
-      "image": ""
+      
     },
     {
       "id": 45,
@@ -403,7 +373,7 @@
       "weapon": "Polearm",
       "vision": "Geo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Yun_Jin",
-      "image": ""
+      
     },
     {
       "id": 46,
@@ -412,7 +382,7 @@
       "weapon": "Polearm",
       "vision": "Cryo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Shenhe",
-      "image": ""
+      
     },
     {
       "id": 47,
@@ -421,7 +391,7 @@
       "weapon": "Catalyst",
       "vision": "Electro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Yae_Miko",
-      "image": ""
+      
     },
     {
       "id": 48,
@@ -430,7 +400,7 @@
       "weapon": "Sword",
       "vision": "Hydro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayato",
-      "image": ""
+      
     },
     {
       "id": 49,
@@ -439,7 +409,7 @@
       "weapon": "Bow",
       "vision": "Hydro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Yelan",
-      "image": ""
+      
     },
     {
       "id": 50,
@@ -448,7 +418,7 @@
       "weapon": "Bow",
       "vision": "Cryo",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Aloy",
-      "image": ""
+      
     },
     {
       "id": 51,
@@ -457,25 +427,41 @@
       "weapon": "Sword",
       "vision": "Electro",
       "wiki_url": "https://genshin-impact.fandom.com/wiki/Kuki_Shinobu",
-      "image": ""
+      
     }
   ],
   "teams": [
     {
-      "char1": "Fischl",
-      "char2": "Ningguang",
-      "char3": "Sucrose",
+      "char1": "Noelle",
+      "char2": "Xingqiu",
+      "char3": "Diluc",
       "char4": "Lisa",
-      "name": "team 1",
+      "name": "Team 1",
       "id": 1
     },
     {
-      "char1": "Razor",
+      "char1": "Bennett",
       "char2": "Xiangling",
       "char3": "Kaeya",
       "char4": "Fischl",
       "name": "Team 2",
       "id": 2
+    },
+    {
+      "char1": "Kaeya",
+      "char2": "Albedo",
+      "char3": "Rosaria",
+      "char4": "Keqing",
+      "name": "Team 3",
+      "id": 3
+    },
+    {
+      "char1": "Ningguang",
+      "char2": "Xiangling",
+      "char3": "Sucrose",
+      "char4": "Jean",
+      "name": "Team 4",
+      "id": 4
     }
   ]
 }
